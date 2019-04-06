@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/isomorphicgo/isokit"
-	"github.com/uxtoolkit/reconcile"
+	"github.com/antonienko/isokit"
+	"github.com/antonienko/reconcile"
 	_ "golang.org/x/net/html"
 	"honnef.co/go/js/dom"
 )
